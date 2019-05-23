@@ -1,0 +1,4 @@
+*.csv
+data immo France/
+*.idea/
+__pycache__/
